@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 23da30cee20fe084a82b6f0db06f439f
+  productGUID: c3b46a8e0ff63c747b5f759b4a60c064
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -719,10 +719,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 0319f127-35cb-4ea8-a15c-d881a73d9c9a
+  cloudProjectId: 840251a9-fbc3-423d-9723-c176efad6601
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: OMorales_Hour1and2 (3)
+  projectName: OMorales_Hour1and2 (2)
   organizationId: masterjediocds
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
