@@ -1,0 +1,42 @@
+
+
+
+
+Is the game to easy or hard? Give 3 unique reasons why it is easy or hard.
+
+The game is easy because it only moves left and right.
+The game can be hard when the speed is adjusted.
+Crashing into many obstacles with no powerups can make the game difficult.
+
+
+
+What 3 changes would you do to make it easier or harder?
+I would Add more obstacles to make it harder.
+I would increase how much time the world slows down to make it harder.
+I would take out phasing because No phasing out will make it harder.
+
+
+
+List three things that would give it a "wow" factor.
+I think if the powerups included some jumps it wouldve be awesome.
+I think a "wow" factor could've also been maybe some cool animations in the background.
+A cooler prefab, the prefab is oldschool
+
+
+
+What parts of the game are fun? 3 item
+
+Colliding with the powerups are fun.
+Dodging obstacles when the speed is adjusted is fun.
+Adding material to the project and making it your own is fun
+
+
+What parts of the game are tedious? 3 items
+
+understanding and writing the scripting is the most tedious. 
+Addiing obstacles and powerups in the perfect spots are tedious as well.
+Creating the GUIs are very tedious as well.
+
+
+
+
